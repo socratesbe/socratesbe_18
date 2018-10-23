@@ -1,2 +1,2 @@
 # socratesbe_18
-This is event website for the SoCraTesBE 2018 conference
+Check out our [wiki](https://github.com/socratesbe/socratesbe_18/wiki)!
